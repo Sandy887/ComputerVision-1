@@ -14,7 +14,7 @@ Short demo project from the "Foundations of Computer Vision" course demonstratin
 
 ## Demo
 ![Tracking demo](results/Trajectory_TM.jpg)
-h
+
 Short caption: Example of vehicle trajectory on sample video.
 
 
