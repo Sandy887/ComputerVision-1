@@ -33,3 +33,7 @@ Summary:
 - Background subtraction (MOG2): detects moving objects well but shows ghosting and merges nearby cars; needs parameter tuning and post-processing to separate close objects.
 
 See the notebook for the full qualitative table, trajectories, and example outputs in the results/ folder.
+
+## Acknowledgements
+**Acknowledgements**
+- This project uses a template originally created by [Ali Rida Sahili](https://github.com/Ali-Sahili).
